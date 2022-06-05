@@ -1,0 +1,49 @@
+Harry potter
+J.K RowlinG
+1
+Fantasy
+#
+One piece
+Eiichiro Oda
+2
+Manga
+#
+Naruto
+Masashi Kishimoto
+3
+Manga
+#
+Shingeki no kyojin
+Hajime Isayama
+4
+Manga
+#
+Le Rouge et le Noir
+Stendhal
+5
+Novel
+#
+Les Misérables
+Victor Hugo
+6
+Tragedy
+#
+L'Etranger
+Albert Camus
+7
+crime
+#
+La Peste
+Albert Camus
+8
+Novel
+#
+Germinal
+Emile Zola
+9
+Novel
+#
+J'accuse
+Emile Zola
+10
+Biography
